@@ -28,6 +28,50 @@
   color: #61dafb;
 }
 
+.charts-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.chart {
+  margin: 20px;
+}
+
+
+.dashboard-content {
+  padding: 20px;
+}
+
+.charts-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.chart {
+  margin: 20px;
+}
+
+.summary-card {
+  margin: 20px;
+  padding: 20px;
+}
+
+.patient-list {
+  margin-top: 40px;
+}
+
+.summary-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
